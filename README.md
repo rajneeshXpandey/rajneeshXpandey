@@ -2,13 +2,15 @@
 <h3 align="center">I'm a Computer Science and Software student at NIT Trichy(2019-2023)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajneesh1708&label=Profile%20views&color=0e75b6&style=flat" alt="rajneesh1708" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/333243/screenshots/5343222/hiring-manager-for-codility.png">
 
 - 📫 How to reach me **rajneeshpandey1708@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rajneesh-pandey-3b578818b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rajneesh-pandey-3b578818b/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rajneesh_pandey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rajneesh_pandey" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rajneesh-pandey-3b578818b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rajneesh-pandey-3b578818b" height="30" width="40" /></a>
+<a href="https://instagram.com/rajneesh_1708" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rajneesh_1708" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rajneeshpandey08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rajneeshpandey08" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rajneesh1_708" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="rajneesh1_708" height="30" width="40" /></a>
 </p>
 
