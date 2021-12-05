@@ -13,6 +13,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajneesh1708&show_icons=true&locale=en" alt="rajneesh1708" /></p>
 
-<p align="center">
+<!-- <p align="center">
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=RAJNEESH1708&bg_color=FFFFFF&color=101010&line=00FF00&point=FFA500&hide_border=true" alt="contribution chart" />
-</p>
+</p> -->
