@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajneesh Pandey</h1>
-<h3 align="center">I'm a Computer Science and Software student at NIT Trichy(2019-2023)</h3>
+<h3 align="center">I'm a Computer Science student @ NIT Trichy (2019-2023)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajneesh1708&label=Profile%20views&color=0e75b6&style=flat" alt="rajneesh1708" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/333243/screenshots/5343222/hiring-manager-for-codility.png">
