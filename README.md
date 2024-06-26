@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajneesh Pandey</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajneeshXpandey&label=Profile%20views&color=0e75b6&style=flat" alt="rajneeshXpandey" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajneeshXpandey&label=Profile%20views&color=0e75b6&style=flat" alt="rajneeshXpandey" /> </p> -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/333243/screenshots/5343222/hiring-manager-for-codility.png">
 
 <h3 align="left">
