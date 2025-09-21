@@ -5,10 +5,9 @@
 
 <h3 align="left">
  <a href="https://mailto:rajneeshpandey1708@gmail.com" target="blank"><img align="center" height=45 width=45 src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="rajneesrajneeshpandey1708@gmail.com" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rajneesh-pandey-3b578818b" target="blank"><img align="center" height=40 src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="rajneesh-pandey-3b578818b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rajneesh-pandey" target="blank"><img align="center" height=40 src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="rajneesh-pandey-3b578818b" height="30" width="40" /></a>
 
-</h3>
-<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=rajneeshXpandey&show_icons=true&locale=en&layout=compact" alt="rajneeshXpandey" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=rajneeshXpandey&show_icons=true&locale=en&layout=compact" alt="rajneeshXpandey" /></p> -->
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rajneeshXpandey&show_icons=true&locale=en" alt="rajneeshXpandey" /></p>
