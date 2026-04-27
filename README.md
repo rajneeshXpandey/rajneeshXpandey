@@ -1,17 +1,23 @@
-<h1 align="center">Hi 👋, I'm Rajneesh Pandey</h1>
+Hi 👋, I'm Rajneesh Pandey
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajneeshXpandey&label=Profile%20views&color=0e75b6&style=flat" alt="rajneeshXpandey" /> </p> -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/333243/screenshots/5343222/hiring-manager-for-codility.png">
+<!-- <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/333243/screenshots/5343222/hiring-manager-for-codility.png"> -->
 
-<h3 align="left">
- <a href="https://mailto:rajneeshpandey1708@gmail.com" target="blank"><img align="center" height=45 width=45 src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="rajneesrajneeshpandey1708@gmail.com" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rajneesh-pandey" target="blank"><img align="center" height=40 src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="rajneesh-pandey-3b578818b" height="30" width="40" /></a>
-
-<!-- <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=rajneeshXpandey&show_icons=true&locale=en&layout=compact" alt="rajneeshXpandey" /></p> -->
+- Software Engineer, love to build stuff. 
+- Working on backend systems, distributed systems, and scalable services  
+- Interested in System Design, DSA, and GenAI  
 
 <!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rajneeshXpandey&show_icons=true&locale=en" alt="rajneeshXpandey" /></p>
+### 📫 Connect with me
+<p align="left">
+  <a href="mailto:rajneeshpandey1708@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30" />
+  </a>
+  <a href="https://linkedin.com/in/rajneesh-pandey">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="30" />
+  </a>
+</p>
+
+---
+
+⭐️ From [rajneeshXpandey](https://github.com/rajneeshXpandey)
 -->
-<!-- <p align="center">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rajneeshXpandey&bg_color=FFFFFF&color=101010&line=00FF00&point=FFA500&hide_border=true" alt="contribution chart" />
-</p> -->
